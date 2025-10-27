@@ -1,0 +1,5 @@
+../../CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Src/main.c:10:6:inputReceived_TIM3CH4	8	static
+../Src/main.c:40:5:main	4	static
+../Src/main.c:47:6:TIM3_IRQHandler	8	static
+../Src/main.c:59:6:TIM3_IC_callback	16	static
